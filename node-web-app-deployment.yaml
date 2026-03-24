@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: node-web-app
-          image: joanroucoux/node-web-app
+          image: 446093446159.dkr.ecr.us-east-1.amazonaws.com/nodejs-cicd
           ports:
             - containerPort: 8080
